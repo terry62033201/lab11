@@ -1,0 +1,34 @@
+命令稿啟動於 2019年02月10日 (週日) 16時09分31秒
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ whoami; pwd
+terry62033201
+/home/terry62033201/lab11
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ git config 0[K-l
+user.name=terry62033201
+user.email=terry62033201@gmail.com
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/terry62033201/lab11
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ git clne[K[Kone https://github.com/terry62033201/lab0[K111.[K[K.gi t
+Cloning into 'lab11'...
+warning: You appear to have cloned an empty repository.
+Checking connectivity... done.
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ ls
+[0m[01;34mlab11[0m  lab11.script
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ cd lab11
+]0;terry62033201@Derek: ~/lab11/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11/lab11[00m$ ls
+]0;terry62033201@Derek: ~/lab11/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11/lab11[00m$ cd ..
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ rm dir lab11
+rm: 無法移除 'dir': 沒有此一檔案或目錄
+rm: 無法移除 'lab11': 是個目錄
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ rm dir lab11[1@-[1@r[1@f[1@ 
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ ls
+lab11.script
+]0;terry62033201@Derek: ~/lab11[01;32mterry62033201@Derek[00m:[01;34m~/lab11[00m$ exit
+
+命令稿已於 2019年02月10日 (週日) 16時11分03秒
+ 完成

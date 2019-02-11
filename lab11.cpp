@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 	int n;
-	cout << "print the number : " << "\n";
+	cout << "print the number : " << endl;
 	cin >> n;
 	
 
@@ -12,11 +12,11 @@ int main()
 
 		if(n % 2 == 1){
 			n = 3*n + 1;
-			cout << "answer is " << n << "\n";
+			cout << n << endl;
 		
 		}else if(n % 2 != 1){
 			n = n/2;
-			cout << "answer is " << n << "\n";
+			cout << n << endl;
 		}
 	}
 	return 0;
